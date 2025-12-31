@@ -1,3 +1,4 @@
+
 #1
 while True:
     age = input("Enter your age: ")
@@ -161,4 +162,4 @@ while True:
         else:
             print ("The lift is already on that floor")
     else:
-        print ("Floor can only be a positive digit.")
+        print ("Floor can only be a positive 
